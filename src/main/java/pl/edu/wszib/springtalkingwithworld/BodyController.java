@@ -20,7 +20,7 @@ public class BodyController {
     public ResponseEntity post(@RequestBody Klient klient) {
 
 
-        
+
         return ResponseEntity.ok(klient);
     }
 
