@@ -14,7 +14,7 @@ import java.util.Arrays;
 @RequestMapping("/cal")
 public class Calculator {
 
-                                                                                                                                                                         
+
 
 
     @GetMapping("/sum")
