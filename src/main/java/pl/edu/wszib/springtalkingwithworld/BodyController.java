@@ -13,14 +13,8 @@ public class BodyController {
 
 
 
-
-
-
     @PostMapping
     public ResponseEntity post(@RequestBody Klient klient) {
-
-
-
         return ResponseEntity.ok(klient);
     }
 
